@@ -1,10 +1,10 @@
 # Payment-Identification-and-Resolution-System
-A Neural Network–based fintech solution that intelligently assigns payments made with default or placeholder IDs to the correct payer Tax Identification Number (TIN) using fuzzy 
+A Neural Network–based fintech solution that intelligently assigns payments made with default or placeholder IDs to the correct payer Identification Number using fuzzy 
 matching, data preprocessing, and deep learning to improve reconciliation accuracy, compliance, and operational efficiency.
 
 Project Description    
 
-This project builds a Neural Network based Payment Identity Resolution System for fintech and payment processing environments. This solution is smart enough to associate payments made with a default or dummy ID number (ex. 9999999999) to a most probable correct payer ID number (TIN).
+This project builds a Neural Network based Payment Identity Resolution System for fintech and payment processing environments. This solution is smart enough to associate payments made with a default or dummy ID number (ex. 9999999999) to a most probable correct payer ID number.
 
 The system uses machine learning, fuzzy matching and deep learning techniques to analyze various customer attributes such as names, phone numbers and addresses to find probable matches between payment records and registered taxpayer databases.
 
