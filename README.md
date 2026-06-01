@@ -1,4 +1,13 @@
 # Payment-Identification-and-Resolution-System
+
+## Project Documentation
+
+### Supporting Documents
+
+- [Datasheet for Dataset](./Datasheet%20for%20Dataset.pdf)
+
+- [Model Card for NN Payment ID Resolution](./Model%20Card%20for%20NN%20Payment%20ID%20Resolution.pdf)
+
 A Neural Network–based fintech solution that intelligently assigns payments made with default or placeholder IDs to the correct payer Identification Number using fuzzy 
 matching, data preprocessing, and deep learning to improve reconciliation accuracy, compliance, and operational efficiency.
 
